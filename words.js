@@ -1,4 +1,4 @@
-﻿var words = [
+﻿let words = [
 "a",
 "a's",
 "aaa",
